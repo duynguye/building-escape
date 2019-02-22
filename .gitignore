@@ -1,0 +1,12 @@
+# Ignore all unncessary Unreal Generated Folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore starter content
+Content/StarterContent/
+
+# Ignore specific file extensions
+*.VC.db
